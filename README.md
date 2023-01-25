@@ -1,7 +1,8 @@
 # SAMSUNG_CODINGTEST
 
-[[백준]삼성 코테 모음](https://www.acmicpc.net/workbook/view/1152)
-[[SWEA]삼성 모의 코테 모음](https://swexpertacademy.com/main/talk/solvingClub/problemBoxDetail.do?solveclubId=AV6kld8aisgDFASb&probBoxId=AV732SG66sEDFAW7&leftPage=1)[[SWEA]삼성 A형 문제 모음](https://swexpertacademy.com/main/talk/solvingClub/problemBoxDetail.do?solveclubId=AV6kld8aisgDFASb&probBoxId=AV_W57U6ACQDFAX7&leftPage=1)
+[[백준]삼성 코테 모음](https://www.acmicpc.net/workbook/view/1152)  
+[[SWEA]삼성 모의 코테 모음](https://swexpertacademy.com/main/talk/solvingClub/problemBoxDetail.do?solveclubId=AV6kld8aisgDFASb&probBoxId=AV732SG66sEDFAW7&leftPage=1)  
+[[SWEA]삼성 A형 문제 모음](https://swexpertacademy.com/main/talk/solvingClub/problemBoxDetail.do?solveclubId=AV6kld8aisgDFASb&probBoxId=AV_W57U6ACQDFAX7&leftPage=1)  
 
 | **문제**                                 | **Python 풀이** | **C 풀이** | **원본** | **비고** |
 | --- | --- | --- | --- | --- |
