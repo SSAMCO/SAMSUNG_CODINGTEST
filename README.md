@@ -1,4 +1,5 @@
 # SAMSUNG_CODINGTEST
+### 목표: 3월 상시 테스트 A 받기 > 지원서 작성 (가산점) > 5월 찐 코테 패스
 
 [[백준]삼성 코테 모음](https://www.acmicpc.net/workbook/view/1152)  
 [[SWEA]삼성 모의 코테 모음](https://swexpertacademy.com/main/talk/solvingClub/problemBoxDetail.do?solveclubId=AV6kld8aisgDFASb&probBoxId=AV732SG66sEDFAW7&leftPage=1)  
