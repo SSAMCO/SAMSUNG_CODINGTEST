@@ -6,3 +6,6 @@
 3. 새로운 브랜치를 만들어서 pr을 진행
 (git add > git commit > git push)
 4. pr을 진행하면 레포지토리에 포함된 유저들이 approve를 진행하고 모두 수락하면 main에 merge를 하게 됨
+
+
+## main에 push하지 못하도록 설정을 바꿔야할 듯
